@@ -1,3 +1,5 @@
+/* email_extraction filein.txt fileout.txt */ 
+
 #include <iostream>
 #include <fstream>
 #include <string>
